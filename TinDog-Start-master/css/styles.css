@@ -52,25 +52,26 @@ h1{
 }
 
 /* Features */
-h3{
-  font-family: "Montserrat";
-  font-weight: bold;
-  font-size: 1.5rem;
-}
-
-.features{
+#features{
   text-align: center;
-  margin: 0 110px;
+  padding: 7% 15%;
+  /* margin: 0 110px; */
 }
 
 .feature-icon{
   color: #ef8172;
   font-size: 3rem;
-  margin: 100px auto 20px;
+  margin-bottom: 20px;
 }
 
 .feature-icon:hover{
   color: #ff4c68;
+}
+
+h3{
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 1.5rem;
 }
 
 p{
