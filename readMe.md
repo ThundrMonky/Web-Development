@@ -22,5 +22,19 @@ JSON Code:
   "dateExpired": null,
   "credential": null,
   "institution": null
+},
+{
+  "name": "Certified ScrumMaster",
+  "dateReceived": null,
+  "dateExpired": null,
+  "credential": null,
+  "institution": null
+},
+{
+  "name": "Certified Associate in Project Management (CAPM)",
+  "dateReceived": null,
+  "dateExpired": null,
+  "credential": null,
+  "institution": null
 }
 ```
